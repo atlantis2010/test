@@ -1,0 +1,14 @@
+
+Display name : sk6059-key_Yu0LJQ2UMBiHEQLrgDxPc5IjN7ZyLOEoY2anSoEOuLc=
+
+Application (client) ID : d1ce0418-db8e-4c57-b4dd-b2392c0de51c
+
+Directory (tenant) ID : 32b68c64-96f9-439a-9780-d8b3e147454f
+
+Object ID : 6bfd453f-5c83-49e9-80aa-7b6483f54e35
+
+sk6059-key : JgdMn332HgMP2+@CWR+aJ:BSW4p_@YHu
+
+subscription(±¸µ¶) ID : 59cbc521-fc93-4734-a1fc-4e967ed4a53f
+
+
